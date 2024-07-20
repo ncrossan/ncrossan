@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Analysis in Python</b>
-  - [Analysis on a Sales Dataset](https://github.com/ncrossan)
+  - [Analysis on a Sales Dataset](https://github.com/ncrossan/Sales_Data_Analysis_Project)
 - <b>Data Structures and Algorithms Practice in C++</b>
   - [Praciting DS & Algos in C++](https://github.com/ncrossan)
 
