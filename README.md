@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Data Analysis in Python</b>
+  - [Analysis on a Sales Dataset](https://github.com/ncrossan)
 - <b>Data Structures and Algorithms Practice in C++</b>
-  - [Praciting DS & Algos in Python](https://github.com/ncrossan)
-- <b>Python Projects</b>
-  - [FreeCodeCamp Projects Built (Datastructures and Algorithms Demo)](https://github.com/ncrossan)
+  - [Praciting DS & Algos in C++](https://github.com/ncrossan)
 
 <h2>📺 My Project Demonstrations via Youtube:</h2>
 
