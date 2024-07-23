@@ -4,6 +4,7 @@
 
 - <b>Data Analysis in Python</b>
   - [Analysis on a Sales Dataset](https://github.com/ncrossan/Sales_Data_Analysis_Project)
+  - [S&P500 EDA Web App](https://github.com/ncrossan/SP500-WebApp-Project)
 - <b>Data Structures and Algorithms Practice in C++</b>
   - [Praciting DS & Algos in C++](https://github.com/ncrossan)
 
