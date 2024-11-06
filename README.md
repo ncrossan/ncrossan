@@ -8,7 +8,7 @@
 - <b>Data Structures and Algorithms Practice in Java</b>
   - [Praciting DS & Algos in C++](https://github.com/ncrossan)
 - <b>JavaScript Web Projects</b>
-  - [Caesar & Square Text Cyphers](https://github.com/ncrossan)
+  - [Caesar & Square Text Cyphers](https://htmlpreview.github.io/?https://github.com/ncrossan/cipher_website_assignment/blob/main/index.html)
 
 <h2>📺 My Project Demonstrations via Youtube:</h2>
 - [Project Introduction Video]
